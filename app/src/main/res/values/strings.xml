@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">03ProjetoConsumoCombustivel</string>
+    <string name="inputConsumo">Digite a média de consumo (km/l)</string>
+    <string name="inputLitros">Digite a quantidade de combustivel (l)</string>
+    <string name="calcular">Calcular</string>
+    <string name="result"> </string>
+</resources>
